@@ -60,7 +60,7 @@ Release archive: https://github.com/MullaiAyyan/Tide_Paper/archive/refs/tags/Tid
 | 6 | `MSI Map_CDL` | Continuous MSI map (Figure 7) from the sampled MSI points | `Figure7_MSI_Cuddalore` |
 | 7 | `Cuddalore_Suitability_2030&2040` | Weighted multi-criteria suitability maps for 2030 and 2040 | `Cuddalore_Suitability_2030`, `Cuddalore_Suitability_2040` |
 
-Download the four quadrant CSVs from Drive and merge them into `MSI_Cube_Cuddalore_HLS_All.csv` before running the Python scripts. The merged table is also uploaded as the GEE asset used by script 6.
+Click the link `https://drive.google.com/file/d/1-BnTHY6YV6EmMkWPMQqqG3qHX5W3enCB/view?usp=sharing` to Download the four quadrant CSVs from Drive and merge them into `MSI_Cube_Cuddalore_HLS_All.csv` before running the Python scripts. The merged table is also uploaded as the GEE asset used by script 6.
 
 ### Step 2: Python scripts (`python/`)
 
