@@ -1,0 +1,10 @@
+# Tested with Python 3.10.0 and 3.14.7
+numpy
+pandas
+scikit-learn
+tensorflow
+shap
+rasterio
+matplotlib
+gdown
+opencv-python
